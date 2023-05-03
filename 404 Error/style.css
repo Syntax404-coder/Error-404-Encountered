@@ -21,7 +21,7 @@ body{
 }
 
 .image-section{
-    padding: 80px 15px 80px 77px;
+    padding: 80px 77px 80px 77px;
 }
 .image-section img{
     width: 500px;
@@ -54,7 +54,7 @@ button{
     border-radius: 12px;
     padding: 20px 18px;
     border: none;
-    color: white;
+    color: #ffffff;
     background-color: #1569AE;
     margin-top: 30px;
 }
